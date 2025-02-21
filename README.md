@@ -12,10 +12,10 @@ El modelo de datos se compone de diversas entidades que interactúan entre sí p
 ## Diagramas del Sistema
 
 
-### Diagrama 1:::
+### Diagrama 1::
 ![Diagrama de Clases](img/WhatsApp%20Image%202025-02-15%20at%201.29.06%20PM.jpeg)
 
-### Diagrama 2:::
+### Diagrama 2::
 ![Diagrama Entidad-Relación](img/WhatsApp%20Image%202025-02-15%20at%201.29.05%20PM.jpeg)
 
 ### 1. **Empresa**
@@ -51,7 +51,7 @@ El modelo de datos se compone de diversas entidades que interactúan entre sí p
 - Contiene información sobre `tipo`, `cantidad`, `unidad_medida`, `fecha_generación` y `estado`.
 - Se relaciona con la empresa que lo genera, el almacenamiento temporal, el transporte, el tratamiento y la disposición final.
 
-## Relación entre Entidades
+## Relación entre Entidades:
 - **Una empresa** puede **generar múltiples residuos**.
 - **Un generador** produce **varios residuos**.
 - **Un residuo** puede ser **almacenado en un depósito** antes de ser transportado.
@@ -59,7 +59,7 @@ El modelo de datos se compone de diversas entidades que interactúan entre sí p
 - **Un residuo puede ser tratado antes de su disposición final**.
 - **Las regulaciones se aplican a los residuos** para cumplir con normativas ambientales.
 
-## Conclusión
+## Conclusión:
 El sistema propuesto permitirá un control eficiente y preciso de los residuos industriales, garantizando el cumplimiento de las regulaciones ambientales y optimizando el manejo de los desechos dentro de las empresas manufactureras. La estructura del modelo facilita la trazabilidad completa del residuo desde su origen hasta su disposición final, asegurando una gestión responsable y sostenible.
 
 
