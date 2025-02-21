@@ -12,10 +12,10 @@ El modelo de datos se compone de diversas entidades que interactúan entre sí p
 ## Diagramas del Sistema
 
 
-### Diagrama 1::
+### Diagrama 1:::
 ![Diagrama de Clases](img/WhatsApp%20Image%202025-02-15%20at%201.29.06%20PM.jpeg)
 
-### Diagrama 2::
+### Diagrama 2:::
 ![Diagrama Entidad-Relación](img/WhatsApp%20Image%202025-02-15%20at%201.29.05%20PM.jpeg)
 
 ### 1. **Empresa**
