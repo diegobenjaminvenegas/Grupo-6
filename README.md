@@ -51,7 +51,7 @@ El modelo de datos se compone de diversas entidades que interactúan entre sí p
 - Contiene información sobre `tipo`, `cantidad`, `unidad_medida`, `fecha_generación` y `estado`.
 - Se relaciona con la empresa que lo genera, el almacenamiento temporal, el transporte, el tratamiento y la disposición final.
 
-## Relación entre Entidades:
+## Relación entre Entidades::
 - **Una empresa** puede **generar múltiples residuos**.
 - **Un generador** produce **varios residuos**.
 - **Un residuo** puede ser **almacenado en un depósito** antes de ser transportado.
